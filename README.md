@@ -8,3 +8,7 @@ Requisitos:
     Live SAS Compiler. Extensión de VSC
     Tema e iconos VSC. Sugiere Dobri
 
+22-sep-2022. 17:15. Lo dejo en el minuto 46:00. Empieza a construir el interior de las tarjetas
+
+Parece bueno como referencia básica:
+https://www.tutorialesprogramacionya.com/bootstrap5ya
