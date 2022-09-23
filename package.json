@@ -1,0 +1,23 @@
+{
+  "name": "bluuweb_cursobootstrap5",
+  "version": "1.0.0",
+  "description": "Curso: Fundamentos de Bootstrap 5 [ Sass incluido + Guía con códigos ] https://www.youtube.com/watch?v=1kNwZbRiVcQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josetibaui/Bluuweb_CursoBootstrap5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josetibaui/Bluuweb_CursoBootstrap5/issues"
+  },
+  "homepage": "https://github.com/josetibaui/Bluuweb_CursoBootstrap5#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}

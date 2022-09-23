@@ -13,6 +13,7 @@ Requisitos:
 23.Sep.2022. 12:34
     Flexbox, Posicionamiento de elementos
 
+23-sep-2022 commit en 1:13.30. Cambiando el fondo de la primera tarjeta
 
 Parece bueno como referencia básica:
 https://www.tutorialesprogramacionya.com/bootstrap5ya
