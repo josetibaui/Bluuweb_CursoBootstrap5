@@ -10,5 +10,9 @@ Requisitos:
 
 22-sep-2022. 17:15. Lo dejo en el minuto 46:00. Empieza a construir el interior de las tarjetas
 
+23.Sep.2022. 12:34
+    Flexbox, Posicionamiento de elementos
+
+
 Parece bueno como referencia básica:
 https://www.tutorialesprogramacionya.com/bootstrap5ya
