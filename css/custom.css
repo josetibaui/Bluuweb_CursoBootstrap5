@@ -8,6 +8,12 @@
   width: 50px;
 }
 
+.fondo-card {
+  background-image: url("../images/bg-pattern-quotation.svg");
+  background-repeat: no-repeat;
+  background-position: 85% top;
+}
+
 /*!
  * Bootstrap  v5.2.1 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
@@ -662,17 +668,17 @@ progress {
 }
 @media (min-width: 992px) {
   .container-lg, .container-md, .container-sm, .container {
-    max-width: 960px;
+    max-width: 950px;
   }
 }
 @media (min-width: 1200px) {
   .container-xl, .container-lg, .container-md, .container-sm, .container {
-    max-width: 1140px;
+    max-width: 950px;
   }
 }
 @media (min-width: 1400px) {
   .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container {
-    max-width: 1320px;
+    max-width: 950px;
   }
 }
 .row {

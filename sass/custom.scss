@@ -16,4 +16,18 @@ $font-family-sans-serif: 'Barlow Semi Condensed', sans-serif;
     width: 50px;
 }
 
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 950px,
+  xl: 950px,
+  xxl: 950px
+);
+
+.fondo-card {
+    background-image: url('../images/bg-pattern-quotation.svg');
+    background-repeat: no-repeat;
+    background-position: 85% top;
+}
+
 @import "../node_modules/bootstrap/scss/bootstrap";
